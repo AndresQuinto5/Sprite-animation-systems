@@ -28,3 +28,5 @@ Este proyecto se enfoca en desarrollar sistemas de animación de sprites para un
 ## Entrega
 - **Portafolio Electrónico:** Utilizar la función de canvas de portafolios electrónicos para añadir una nueva página al portafolio del curso, incluyendo la evidencia de cómo se implementó el fondo y otros elementos del sistema.
 - **Enlace en Canvas:** Entregar el enlace a su portafolio en la plataforma Canvas.
+
+![Alt text](notile.gif)
